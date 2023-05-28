@@ -2,6 +2,7 @@
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/exceptions/security/InvalidLoginResponse.java
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/service/utilities/GsonManager.java
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/repository/MainSliderRepository.java
+/Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/security/CrossOriginConfiguration.java
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/controller/SevenIconsController.java
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/controller/utilities/UploadDownloadController.java
 /Users/meisam/Desktop/eshop_backend/src/main/java/com/api/eshop/domain/ProductsCategories.java

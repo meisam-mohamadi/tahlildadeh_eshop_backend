@@ -6,6 +6,7 @@ com/api/eshop/service/utilities/ActivationCodeManager.class
 com/api/eshop/service/utilities/FileStorageService.class
 com/api/eshop/domain/TopBanner.class
 com/api/eshop/controller/utilities/UploadDownloadController.class
+com/api/eshop/security/CrossOriginConfiguration$1.class
 com/api/eshop/jacksonConfig/Config.class
 com/api/eshop/Constants.class
 com/api/eshop/payload/JwtLoginSuccessResponse.class
@@ -47,6 +48,7 @@ com/api/eshop/domain/Products.class
 com/api/eshop/repository/UserRepository.class
 com/api/eshop/service/HeaderBannerService.class
 com/api/eshop/repository/ProductsCategoriesRepository.class
+com/api/eshop/security/CrossOriginConfiguration.class
 com/api/eshop/controller/UserController.class
 com/api/eshop/utilities/CustomPhysicalNamingStrategy.class
 com/api/eshop/ApiApplication.class
